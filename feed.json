@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://remarksman.micro.blog/2026/09/29/wordle-its-an-abbreviation-not.html",
+				
+				"content_html": "<p>Wordle 1,928 5/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟨⬛⬛⬛<br/>🟩⬛🟨🟨⬛<br/>🟩🟩⬛🟨⬛<br/>🟩🟩🟩🟩🟩</p>\n<p>It’s an abbreviation not a word!</p>\n",
+				"content_text": "Wordle 1,928 5/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟨⬛⬛⬛<br/>🟩⬛🟨🟨⬛<br/>🟩🟩⬛🟨⬛<br/>🟩🟩🟩🟩🟩\n\nIt’s an abbreviation not a word!\n",
+				"date_published": "2026-09-29T07:03:03-07:00",
+				"url": "https://micro.insidelinemc.com/2026/09/29/wordle-its-an-abbreviation-not.html",
+				"tags": ["Wordle"]
+			},
+			{
 				"id": "http://remarksman.micro.blog/2026/09/28/wordle.html",
 				
 				"content_html": "<p>Wordle 1,927 3/6<br/><br/>⬛⬛⬛⬛⬛<br/>⬛⬛⬛🟩🟨<br/>🟩🟩🟩🟩🟩</p>\n",
