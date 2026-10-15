@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://remarksman.micro.blog/2026/10/15/wordle-only-a-dunce-would.html",
+				
+				"content_html": "<p>Wordle 1,944 2/6*<br/><br/>🟨⬛⬛⬛🟩<br/>🟩🟩🟩🟩🟩</p>\n<p>Only a dunce would have made that second guess!</p>\n",
+				"content_text": "Wordle 1,944 2/6*<br/><br/>🟨⬛⬛⬛🟩<br/>🟩🟩🟩🟩🟩\n\nOnly a dunce would have made that second guess!\n",
+				"date_published": "2026-10-15T06:25:54-07:00",
+				"url": "https://micro.insidelinemc.com/2026/10/15/wordle-only-a-dunce-would.html",
+				"tags": ["Wordle"]
+			},
+			{
+				"id": "http://remarksman.micro.blog/2026/10/14/wordle.html",
+				
+				"content_html": "<p>Wordle 1,943 4/6*<br/><br/>⬛⬛⬛🟩⬛<br/>🟩⬛⬛🟩🟩<br/>🟩⬛⬛🟩🟩<br/>🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Wordle 1,943 4/6*<br/><br/>⬛⬛⬛🟩⬛<br/>🟩⬛⬛🟩🟩<br/>🟩⬛⬛🟩🟩<br/>🟩🟩🟩🟩🟩\n",
+				"date_published": "2026-10-14T06:50:16-07:00",
+				"url": "https://micro.insidelinemc.com/2026/10/14/wordle.html",
+				"tags": ["Wordle"]
+			},
+			{
 				"id": "http://remarksman.micro.blog/2026/10/13/wordle.html",
 				
 				"content_html": "<p>Wordle 1,942 4/6*<br/><br/>⬛⬛⬛🟨🟨<br/>🟨🟨🟨⬛⬛<br/>🟩🟩🟨🟩🟨<br/>🟩🟩🟩🟩🟩</p>\n",
