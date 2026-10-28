@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://remarksman.micro.blog/2026/10/28/wordle.html",
+				
+				"content_html": "<p>Wordle 1,957 4/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟩⬛🟨⬛<br/>🟨🟩🟩⬛⬛<br/>🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Wordle 1,957 4/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟩⬛🟨⬛<br/>🟨🟩🟩⬛⬛<br/>🟩🟩🟩🟩🟩\n",
+				"date_published": "2026-10-28T06:27:47-07:00",
+				"url": "https://micro.insidelinemc.com/2026/10/28/wordle.html",
+				"tags": ["Wordle"]
+			},
+			{
+				"id": "http://remarksman.micro.blog/2026/10/27/wordle.html",
+				
+				"content_html": "<p>Wordle 1,956 5/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟨🟨🟨⬛<br/>⬛🟩🟩🟨⬛<br/>⬛🟩🟩🟩🟩<br/>🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Wordle 1,956 5/6*<br/><br/>⬛⬛⬛⬛⬛<br/>⬛🟨🟨🟨⬛<br/>⬛🟩🟩🟨⬛<br/>⬛🟩🟩🟩🟩<br/>🟩🟩🟩🟩🟩\n",
+				"date_published": "2026-10-27T07:08:46-07:00",
+				"url": "https://micro.insidelinemc.com/2026/10/27/wordle.html",
+				"tags": ["Wordle"]
+			},
+			{
 				"id": "http://remarksman.micro.blog/2026/10/26/wordle.html",
 				
 				"content_html": "<p>Wordle 1,955 5/6*<br/><br/>⬛⬛⬛⬛🟨<br/>⬛⬛🟩⬛⬛<br/>⬛⬛🟩🟨⬛<br/>⬛🟩🟩⬛🟩<br/>🟩🟩🟩🟩🟩</p>\n",
